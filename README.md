@@ -25,8 +25,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<!-- <img src='https://s6.gifyu.com/images/bpgwt.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> -->
-![Video Walkthrough](https://s6.gifyu.com/images/bpgwt.gif)
+<img src='assets/Demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with **NVIDIA ShadowPlay**, **CloudConverter**, and **Gifyu**.
