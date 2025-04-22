@@ -25,11 +25,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<!-- <img src='https://i.imgur.com/3cKSSiA.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> -->
-<img src='assets/Demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/ANW7bML.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with **NVIDIA ShadowPlay**, **CloudConverter**, and **Gifyu**.
+GIF created with **NVIDIA ShadowPlay**, **CloudConverter**, and **Imgur**.
 
 ## Notes
 
